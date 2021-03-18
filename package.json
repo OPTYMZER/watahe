@@ -1,6 +1,6 @@
 {
   "name": "discord-rpc",
-  "version": "1.0.0",
+  "version": "14.16.0",
   "description": "Discord RPC",
   "main": "index.js",
   "dependencies": {
