@@ -9,7 +9,7 @@ assets : {
 large_image : "xd",
 large_text : "Jerking baby"
 },
-buttons : [{label : "Instagram" , url : "https://instagram.com/iammaldin5"}]
+buttons : [{label : "Instagram" , url : "https://instagram.com/iammaldin5"},{label : "Website" , url : "https://optymzer.gq/"}]
 }
 })
 })
