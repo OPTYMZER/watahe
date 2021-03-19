@@ -7,6 +7,7 @@
     "node": "14.x"
   },
   "dependencies": {
-    "discord-rpc": "^3.2.0"
+    "discord-rpc": "^3.2.0",
+    "ipc": "0.0.1"
   }
 }
